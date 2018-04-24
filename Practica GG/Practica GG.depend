@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524604072 source:d:\practica gg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"practica.h"
+
+1524603179 d:\practica gg\practica.h
+
+1524603924 source:d:\practica gg\practica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
