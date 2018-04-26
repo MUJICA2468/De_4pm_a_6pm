@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524686856 source:d:\practica izii\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1524685984 d:\practica izii\funcion.h
+
+1524688011 source:d:\practica izii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
